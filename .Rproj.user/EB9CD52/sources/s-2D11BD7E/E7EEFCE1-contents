@@ -1,5 +1,0 @@
-book_filename: "NBMG-training"
-delete_merged_file: true
-language:
-  ui:
-    chapter_name: "Chapter "
