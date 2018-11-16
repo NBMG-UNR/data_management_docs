@@ -1,15 +1,6 @@
 language: r
 pandoc_version: 1.19.2.1
 
-env:
-  global:
-    - secure: "HrtNiKCTTtrZ6F03I4dca7rCOPFHxGABu5xUEVyZrwq6LypAqD8Y9hAggT4yDJU+rh3sYkPZ2w4RIv6T6LeQASvjI3oJp3OQl4O9zaMxcM
-ujwPnAvgQJriWemY60GSq+QSyeIWhEVc3GYIYU+F9wlg2r+Su73O5c8n1y6KSNjhP2ZXyCTDMVQU/JS8JbyWUXHo43HXdPikQNN3dmEh/3tJQ8AAHyQ82
-PP73stqZoAMXTij5wAtR6Qpvfu9HZtStyycPMK0c0jEw5QQP3UaBHeS3jEmPoGhC5q+RinU3sA1/44MbUywRSpCiEfXzP5/Rnzs7T7qXLfCHSbo+xQYH5
-hbD7W3ni9QdFhwNWNEumnsW8H7TnDwTysr6Iu7dx0bbjzB804fK1L/ePMVJWzVQzRyydleIVnc6TPHe7pnLqmc1i2xBnQN1OGPB4WJGQD8kNJ1R7blK9l
-VeYqRujQjxnskMda5tDkO+/kZkM7pyXqwBPZhNZAGbSkTGhhv3GYUbvSnc/z+a1RGLM4R/Vko1o1mPatstrj7k4CijaeSTblbFo8Poa7bDI9vIMzQRP+K
-SHGlc9JbB/gT2DigEmInpYnnzJmaKAZuKeFYFI0B7KNc8jv3OaqF0J9p4mv7SuQHG2H0uT8bT/0ZfK/YrHkk9AI6zmZD29T0I6CngRK2m+oZ8="
-
 before_script:
   - chmod +x ./_build.sh
   - chmod +x ./_deploy.sh
