@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542323504749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1766840711",
+    "id" : "A7FB7E80",
+    "lastKnownWriteTime" : 1542327724,
+    "last_content_update" : 1542327724938,
+    "path" : "~/R Scripts/NBMG-training/04-reproducible_workflows.Rmd",
+    "project_path" : "04-reproducible_workflows.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

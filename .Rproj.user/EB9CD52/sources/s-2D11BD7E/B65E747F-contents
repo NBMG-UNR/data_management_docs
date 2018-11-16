@@ -1,0 +1,1 @@
+This is the bookdown code for NBMG's data management guidelines and trainings. Documentation for new schemas can also be included here to help employees understand developing data structures.

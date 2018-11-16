@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542327654714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1110410717",
+    "id" : "9F333879",
+    "lastKnownWriteTime" : 1542321778,
+    "last_content_update" : 1542321778,
+    "path" : "~/R Scripts/NBMG-training/05-references.Rmd",
+    "project_path" : "05-references.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

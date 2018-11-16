@@ -1,0 +1,34 @@
+# File Management {#fileman}
+
+This chapter will present some file management guidelines for keeping the Nickel server clean and organized. 
+
+## Naming conventions
+
+* All files should have descriptive and precise names
+
+* Start your filename with the most important component/primary method of accessing data
+    + For example, if you access files in a folder by project number, start the file name with the project number
+
+* Words should be separated by with camel case (e.g. MiningDistricts.txt)
+    + Don't use spaces in file names or folder names
+    + Distinct subjects can be separated by an underscore (e.g. GeyserHeader_CarsonCity_20171112.csv)
+
+* If multiple versions of the same file need to be created and stored, use the convention of storing by date in _YYYYMMDD format appended to the end of the filename (e.g. StateMap_20181115.mxd). This allows files that are identical except for date to be sorted by year, month, then date. 
+
+
+## Managing your personal folders
+
+
+* As a rule of thumb, the only documents that should be your in a personal folder are those that only you are accessing or editing. If multiple users need to access or link to the document, it should be under a topic-based folder and not a personal folder.
+
+* It's a good idea to save most (if not all) of your files on Nickel or elsewhere in the cloud. Benefits include built-in backups and access to your data from any computer. 
+
+
+## Data archival
+
+Work in progress...
+
+
+## Folder hierarchy
+
+Work in progress...

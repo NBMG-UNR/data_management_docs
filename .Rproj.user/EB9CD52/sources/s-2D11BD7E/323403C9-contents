@@ -1,0 +1,17 @@
+--- 
+title: "NBMG Training Documentation"
+author: "Emily O'Dean"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "NBMG training documentation for data management best practices."
+---
+
+# Introduction
+
+The purpose of this website is to be used internally at NBMG as a resource for data management, QA, and data analysis best practices and trainings. 
+
+The ultimate goal of this wiki is to replace any documentation for workflows that currently resides on the Nickel server, and serve as the single point of truth for data management and workflow documentation within the department. 
